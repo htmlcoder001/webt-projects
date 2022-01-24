@@ -6,8 +6,8 @@
 
 | Type | Name and link | Tasks | Skills |
 | :--- | :---          | :---  |   ---: |
-| `Landing Page` | [Представитель Тепофол - Сибирь](https://sibir.tepofol.ru/) | Дизайн / Верстка | HTML, CSS, JS |
-| `Corporate/Business`    | [Производственная компания Тепофол](https://tepofol.ru/) | Дизайн / Верстка / WordPress | HTML, CSS, JS, PHP |
-| `Corporate/Business`    | [Ассоциация Специалистов Онкологической Реабилитации](https://#/) | Дизайн / Верстка / WordPress | HTML, CSS, JS, PHP |
-| `Landing Page` | [Бильярдный клуб Феникс-8](https://#/) | Дизайн / Верстка / WordPress | HTML, CSS, JS, PHP |
-| `Landing Page` | [Покрытие EvaLine](https://#/) | Дизайн / Верстка | HTML, CSS, JS |
+| Landing Page | [Представитель Тепофол - Сибирь](https://sibir.tepofol.ru/) | Дизайн / Верстка | HTML, CSS, JS |
+| Corporate/Business    | [Производственная компания Тепофол](https://tepofol.ru/) | Дизайн / Верстка / WordPress | HTML, CSS, JS, PHP |
+| Corporate/Business    | [Ассоциация Специалистов Онкологической Реабилитации](https://#/) | Дизайн / Верстка / WordPress | HTML, CSS, JS, PHP |
+| Landing Page | [Бильярдный клуб Феникс-8](https://#/) | Дизайн / Верстка / WordPress | HTML, CSS, JS, PHP |
+| Landing Page | [Покрытие EvaLine](https://#/) | Дизайн / Верстка | HTML, CSS, JS |
